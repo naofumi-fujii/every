@@ -1,0 +1,20 @@
+GIT
+  remote: https://github.com/naofumi-fujii/jp_business_day
+  revision: 90349eac076dc01ab72e2fe0eb42a43360d36b61
+  specs:
+    jp_business_day (0.1.0)
+      holiday_japan (~> 1.4.4)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    holiday_japan (1.4.4)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  jp_business_day!
+
+BUNDLED WITH
+   2.2.3
