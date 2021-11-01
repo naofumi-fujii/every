@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/naofumi-fujii/jp_business_day
-  revision: 90349eac076dc01ab72e2fe0eb42a43360d36b61
+  revision: ab7cc27cb7f637784788fbf46a83bc060a3d12d4
   specs:
     jp_business_day (0.1.0)
       holiday_japan (~> 1.4.4)
